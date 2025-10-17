@@ -1,0 +1,15 @@
+{
+  "name": "module-1",
+  "version": "2.4.36",
+  "entries": [
+    { "id": 8775, "value": "item_0" },
+    { "id": 7453, "value": "item_1" },
+    { "id": 8884, "value": "item_2" },
+    { "id": 2828, "value": "item_3" },
+    { "id": 5899, "value": "item_4" },
+    { "id": 7824, "value": "item_5" },
+    { "id": 2165, "value": "item_6" },
+    { "id": 876, "value": "item_7" }
+  ]
+}
+
